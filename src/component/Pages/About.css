@@ -1,0 +1,13 @@
+
+.about-div1 {
+     height: 440px;
+     background: url('./abk1.jpeg');
+     background-repeat: no-repeat;
+     background-size: 100% 440px;
+    
+}      
+    
+.about-div2 {
+    background-color: rgb(0, 255, 102);
+    height: 300px;
+}

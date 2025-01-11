@@ -1,0 +1,64 @@
+{
+  "student": [
+    {
+      "id": "e3d8",
+      "fname": "Nihal",
+      "lname": "Nadaf",
+      "mothername": "Anvarbi",
+      "fathername": "Muner",
+      "address": "Kaletek",
+      "gender": "Male",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "dob": "30 may 1998",
+      "pincode": "415539",
+      "course": "Java Devloper",
+      "emailid": "nn5944668@gmail.com"
+    },
+    {
+      "id": "7a26",
+      "fname": "aniket ",
+      "lname": "chavan",
+      "mothername": "",
+      "fathername": "",
+      "address": "",
+      "gender": null,
+      "state": "",
+      "city": "",
+      "dob": "",
+      "pincode": "",
+      "course": "",
+      "emailid": ""
+    },
+    {
+      "id": "772c",
+      "fname": "Sanket",
+      "lname": "Khot",
+      "mothername": "",
+      "fathername": "",
+      "address": "",
+      "gender": null,
+      "state": "",
+      "city": "",
+      "dob": "",
+      "pincode": "",
+      "course": "",
+      "emailid": ""
+    },
+    {
+      "id": "ac97",
+      "fname": "Ash",
+      "lname": "Ketchum",
+      "mothername": "",
+      "fathername": "",
+      "address": "Hollwood",
+      "gender": null,
+      "state": "Goa",
+      "city": "Delhi",
+      "dob": "",
+      "pincode": "415539",
+      "course": "",
+      "emailid": "ashpik@gmail.com"
+    }
+  ]
+}
